@@ -1,0 +1,15 @@
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+android/local.properties
+*.iml
+*.apk
+*.aab
+
+# Unix / Runtime / Editor
+*.log
+*.b64
+*.tmp
+.DS_Store
